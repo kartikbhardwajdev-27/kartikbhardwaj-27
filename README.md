@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🎓 Incoming B.Tech CSE student from **Chandigarh, India**
+- 🎓 B.Tech CSE student from **Chandigarh, India**
 - 🚀 Currently building real projects and improving every day
 - 🎯 Goal: **Land a placement at a top tech company**
 - 📖 Learning: **HTML, CSS, Python and more**
